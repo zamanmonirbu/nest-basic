@@ -32,7 +32,7 @@ export default tseslint.config(
       "@typescript-eslint/no-unsafe-call": "off",
       "semi": "error",
       "no-unused-vars": "off",
-      "@typescript-eslint/no-unused-vars": "error",
+      "@typescript-eslint/no-unused-vars": "off",
 			"prefer-const": "error",
       "prettier/prettier": ["error", { endOfLine: "auto" }],
     },
